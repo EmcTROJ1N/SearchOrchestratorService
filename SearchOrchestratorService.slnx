@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="SearchOrchestratorService.Application/SearchOrchestratorService.Application.csproj" />
+    <Project Path="SearchOrchestratorService.Domain/SearchOrchestratorService.Domain.csproj" />
+    <Project Path="SearchOrchestratorService.Presentation/SearchOrchestratorService.Presentation.csproj" />
+  </Folder>
+</Solution>
